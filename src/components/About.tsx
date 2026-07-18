@@ -1,7 +1,7 @@
 
   export function About() {
   return (
-    <section className="py-20">
+    <section className="py-20 " id="about">
       <div className="max-w-6xl mx-auto px-6 flex flex-col lg:flex-row items-center gap-10">
         <div className="relative w-full lg:w-1/2">
           <img
